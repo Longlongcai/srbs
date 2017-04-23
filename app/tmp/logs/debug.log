@@ -1,0 +1,2289 @@
+2015-04-12 14:53:02 Debug: Notice (8): Undefined variable: my_id in [D:\xampp\htdocs\srbs\app\Controller\BookingsController.php, line 108]
+Trace:
+BookingsController::booked_list() - APP\Controller\BookingsController.php, line 108
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:17:50 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:23:35 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:24:27 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:28:36 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:30:25 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\View\Elements\navigation.ctp, line 24]
+Trace:
+include - APP\View\Elements\navigation.ctp, line 24
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\default.ctp, line 52
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:30:43 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\View\Elements\navigation.ctp, line 24]
+Trace:
+include - APP\View\Elements\navigation.ctp, line 24
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\default.ctp, line 52
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:30:57 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\View\Elements\navigation.ctp, line 24]
+Trace:
+include - APP\View\Elements\navigation.ctp, line 24
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\default.ctp, line 52
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:31:00 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\View\Elements\navigation.ctp, line 24]
+Trace:
+include - APP\View\Elements\navigation.ctp, line 24
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\default.ctp, line 52
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:31:03 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\View\Elements\navigation.ctp, line 24]
+Trace:
+include - APP\View\Elements\navigation.ctp, line 24
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\default.ctp, line 52
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:32:56 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:34:53 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 37]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 37
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:37:40 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 38]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-14 17:39:54 Debug: Notice (8): Use of undefined constant flase - assumed 'flase' in [D:\xampp\htdocs\srbs\app\Controller\UsersController.php, line 38]
+Trace:
+UsersController::login() - APP\Controller\UsersController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-18 22:47:25 Debug: Notice (8): Undefined variable: variable in [D:\xampp\htdocs\srbs\app\View\Rooms\view.ctp, line 44]
+Trace:
+include - APP\View\Rooms\view.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:06:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:08 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:14 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:27 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:33 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:37 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:39 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:43 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:45 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:47 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:51 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:08:54 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:00 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:03 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:09 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:11 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:16 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:19 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:24 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:29 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-04-20 15:09:34 Debug: Notice (8): Undefined variable: my_booking in [D:\xampp\htdocs\srbs\app\View\Bookings\admin_list.ctp, line 28]
+Trace:
+include - APP\View\Bookings\admin_list.ctp, line 28
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
